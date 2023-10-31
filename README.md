@@ -38,19 +38,4 @@ I'm a rookie backend developer who is taking the first steps in IT. At the momen
 
 </div>  
 
-<br/>
 
-
-
-<br/>  
-
-  
-
-<br/>  
-  
-
-<br/>  
-
-
-<br />
-![](https://komarev.com/ghpvc/?username=EvKutyashov)
