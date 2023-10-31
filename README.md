@@ -53,3 +53,4 @@ I'm a rookie backend developer who is taking the first steps in IT. At the momen
 
 
 <br />
+![](https://komarev.com/ghpvc/?username=EvKutyashov)
